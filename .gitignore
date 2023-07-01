@@ -265,6 +265,7 @@ ServiceFabricBackup/
 *.mdf
 *.ldf
 *.ndf
+*C:\Users\ONATPC\Documents\25 C# Projeler\EtutSistemi15\EtutTablo_SQLQuery
 
 # Business Intelligence projects
 *.rdl.data
