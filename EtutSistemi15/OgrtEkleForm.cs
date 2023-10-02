@@ -13,7 +13,7 @@ namespace EtutSistemi15
 {
     public partial class OgrtEkleForm : Form
     {
-        SqlConnection baglan = new SqlConnection(@"Data Source=LAPTOP-ONATSOFT\ONATSOFT;Initial Catalog=EtutSistemiDB;Integrated Security=True");
+        SqlConnection baglan = new SqlConnection(@"");
 
         public OgrtEkleForm()
         {
